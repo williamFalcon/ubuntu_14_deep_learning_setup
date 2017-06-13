@@ -8,12 +8,12 @@ Scripts to set up a new deep learning environment on ubuntu 14.04
 bash 1_cuda_cudnn_install.sh
 ```    
 
-2. Install cuda and cudnn deps    
+2. Install miniconda
 ```
 bash 2_miniconda_install.sh
 ```    
 
-3. Install cuda and cudnn deps    
+3. Install tf
 ```
 bash 3_tensorflow_install.sh
 ```    
